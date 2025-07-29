@@ -1,0 +1,250 @@
+.main-page-background {
+    background-color: #191a1d;
+    text-align: center;
+    padding: 50px;
+}
+
+.image-1 {
+    border-radius: 220px;
+}
+
+.main-page-heading {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.main-page-paragraph {
+    font-family: "Roboto";
+    color: #9aa5b1;
+}
+
+.main-page-button {
+    height: 50px;
+    width: 140px;
+    background-color: #4b6cc1;
+    border-width: 0px;
+    border-radius: 10px;
+    font-family: "Roboto";
+    color: #ffffff;
+}
+
+.main-page-name {
+    color: #4b6cc1;
+}
+
+.st-background {
+    background-color: #323f4b;
+}
+
+.st-heading-one {
+    font-family: "Roboto";
+    color: #cced00;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.sth-background {
+    background-color: #3e4c59;
+    padding-top: 40px;
+}
+
+.sth-heading-one {
+    font-family: "Roboto";
+    color: #cced00;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.sth-heading-two {
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.sth-project-card-background {
+    background-color: #323f4b;
+}
+
+.sth-card-heading-one {
+    font-family: "Roboto";
+    color: #9aa5b1;
+}
+
+.sth-card-heading-two {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.sth-card-paragraph-one {
+    font-family: "Roboto";
+    color: #9aa5b1;
+    font-size: 25px;
+}
+
+.sth-card-paragraph-two {
+    font-family: "Roboto";
+    color: #cced00;
+}
+
+.st-heading-two {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.st-paragraph-one {
+    font-family: "Roboto";
+    color: #9aa5b1;
+}
+
+.st-background-two {
+    background-color: #1f2933;
+}
+
+.st-skills-background {
+    background-color: #323f4b;
+    text-align: center;
+    padding: 15px;
+    border-style: solid;
+    border-radius: 15px;
+}
+
+.st-skill-heading {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.sf-background {
+    background-color: #52606d;
+}
+
+.sf-heading-one {
+    font-family: "Roboto";
+    font-size: 30px;
+    color: #cced00;
+    font-weight: bold;
+}
+
+.sf-heading-two {
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.sf-box-background {
+    background-color: #323f4b;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.sf-box-image {
+    width: 80px;
+}
+
+.sf-box-heading {
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.sf-box-paragraph {
+    font-family: "Roboto";
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+.sfive-background {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    background-size: cover;
+}
+
+.sfive-hrline {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ffffff;
+}
+
+.sfive-heading {
+    font-size: 100px;
+    color: #ffffff;
+}
+
+.sfive-paragraph {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 23px;
+}
+
+.ssix-background {
+    background-color: #1f2933;
+}
+
+.ssix-heading-one {
+    font-family: "Roboto";
+    color: #cced00;
+    font-weight: bold;
+}
+
+.ssix-heading-two {
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.s-six-box-background {
+    background-color: #323f4b;
+    text-align: center;
+}
+
+.ssix-box-image {
+    border-radius: 150px;
+    height: 200px;
+    width: 200px;
+}
+
+.s-six-box-paragraph {
+    font-family: "Roboto";
+    color: #9aa5b1;
+    font-size: 25px;
+}
+
+.s-six-box-heading {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.seven-background {
+    background-color: #0d2436;
+}
+
+.last-hr-line {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #9aa5b1;
+}
+
+.seven-image {
+    width: 100px;
+    border-radius: 75px;
+}
+
+.seven-heading {
+    font-family: "Roboto";
+    font-weight: 500;
+    color: #cced00;
+    font-size: 30px;
+}
+
+.seven-paragraph {
+    font-family: "Roboto";
+    color: #9aa5b1;
+}
+
+.seven-background-two {
+    background-color: #0d2436;
+}
